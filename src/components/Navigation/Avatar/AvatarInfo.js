@@ -95,7 +95,7 @@ export const AvatarInfo = React.memo(function ProfileCard() {
         <IconButton
           size="small"
           component={Link}
-          href="https://github.com/vijaygames"
+          href="https://github.com/LeadVjSingh"
           target="_blank"
           rel="noopener"
         >
